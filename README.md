@@ -94,8 +94,8 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/Nema17.jpg" width="300" height="224" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/28byj-48.jpg" width="300" height="224" align="middle"></td>
+		<img border="0" src="/images/Nema17.jpg" width="300" height="224" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/images/28byj-48.jpg" width="300" height="224" align="middle"></td>
 	</tr>
 	<tr>
 		<td align="center">
@@ -105,9 +105,9 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<img border="0" src="/NewStepper/images/D_L298.jpg" width="240" height="240" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/D_ULN2003.jpg" width="240" height="240" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;
-		<img border="0" src="/NewStepper/images/D_L293.jpg" width="240" height="240" align="middle"></td>
+		<img border="0" src="/images/D_L298.jpg" width="240" height="240" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/images/D_ULN2003.jpg" width="240" height="240" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;
+		<img border="0" src="/images/D_L293.jpg" width="240" height="240" align="middle"></td>
 	</tr>
 </table>
     <br><hr align="left">
