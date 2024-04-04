@@ -6,7 +6,9 @@
 // function used:
 // begin() - init the timer library and stepmotor operation mode
 // where() - returns the number of steps remainding to stepmotor gets to it's destination
-// run(steps,speed,direction) - cause step motor to move according to parameters informed
+// run()   - cause step motor to move according to parameters informed
+// setms() - set the accessible milliseconds counterdown
+// getms() - get the state of milliseconds counterdown
 // 
 
 #include <NewStepper.h>
