@@ -20,7 +20,7 @@
 		<br>
 		Special thanks to @gfvalvo from https://forum.arduino.cc who fixed the 
 		error: invalid-use-of-non-static-member-function and gave all tricks to 
-		use hardware timers inside the library<br>
+		use hardware timers inside the library. Also thanks to @b707 from same forum for valuable suggestions<br>
 		<br>
 		https://forum.arduino.cc/t/error-invalid-use-of-non-static-member-function/1240240<br>
 		<br>
