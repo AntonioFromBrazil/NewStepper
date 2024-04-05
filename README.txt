@@ -2,7 +2,7 @@
 This is an ESP-32 nonblocking step motor library based on interrupts for Nema17 and 28byj-48 
 By Antonio Testa, April/2024
 
-Special thanks to @gfvalvo from https://forum.arduino.cc who fixed the error: invalid-use-of-non-static-member-function and gave all tricks to use hardware timers inside the library
+Special thanks to @gfvalvo from https://forum.arduino.cc who fixed the error: invalid-use-of-non-static-member-function and gave all tricks to use hardware timers inside the library. Also thanks to @b707 from same forum for valuable suggestions
 
 https://forum.arduino.cc/t/error-invalid-use-of-non-static-member-function/1240240
 
